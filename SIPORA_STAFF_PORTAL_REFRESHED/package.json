@@ -1,0 +1,8 @@
+{
+  "name": "sipora-netlify-orders",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
